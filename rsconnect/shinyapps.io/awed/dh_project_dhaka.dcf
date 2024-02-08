@@ -1,0 +1,12 @@
+name: dh_project_dhaka
+title: dh_project_dhaka
+username: awed
+account: awed
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11142469
+bundleId: 8230345
+url: https://awed.shinyapps.io/dh_project_dhaka/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
